@@ -16,8 +16,8 @@
 1. 先装一个用户脚本管理器，比如 [篡改猴 Tampermonkey](https://www.tampermonkey.net/)。
    - Edge / Chrome 用户：如果装了篡改猴但脚本不生效，打开 `edge://extensions`（或 `chrome://extensions`），把左下角/右上角的"开发人员模式"打开。
 2. 安装脚本：
-   - Greasy Fork：（发布后补上链接）
-   - 或者直接从 GitHub 安装：[点这里安装](https://github.com/__GH_USER__/bilibili-focus/raw/main/bilibili-focus.user.js)
+   - **推荐**：在 Greasy Fork 安装 → [B站防沉迷：去首页推荐](https://greasyfork.org/zh-CN/scripts/606890)（打开后点「安装此脚本」）
+   - 或者直接从 GitHub 安装：[点这里安装](https://github.com/cuisy78/bilibili-focus/raw/main/bilibili-focus.user.js)
 
 ## 建议的配套设置
 
@@ -26,7 +26,7 @@
 
 ## 已知限制
 
-- B 站经常改版，页面结构变了以后某些区域可能藏不住。遇到问题欢迎在 [Issues](https://github.com/__GH_USER__/bilibili-focus/issues) 里反馈，最好附上视频链接和截图。
+- B 站经常改版，页面结构变了以后某些区域可能藏不住。遇到问题欢迎在 [Issues](https://github.com/cuisy78/bilibili-focus/issues) 里反馈，最好附上视频链接和截图。
 - 只处理网页版（www.bilibili.com、search.bilibili.com），不影响手机 App。
 - 动态页、个人空间、热门/排行榜等页面暂未处理。
 
