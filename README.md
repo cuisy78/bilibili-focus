@@ -15,7 +15,8 @@
 ## 安装
 
 1. 先装一个用户脚本管理器，比如 [篡改猴 Tampermonkey](https://www.tampermonkey.net/)。
-   - Edge / Chrome 用户：如果装了篡改猴但脚本不生效，打开 `edge://extensions`（或 `chrome://extensions`），把左下角/右上角的"开发人员模式"打开。
+   - **Edge / Chrome 用户必做**：打开 `edge://extensions`（或 `chrome://extensions`），点篡改猴的「详细信息」，打开「**允许用户脚本**」开关。没有这一步脚本不会运行，篡改猴菜单顶部会提示"请启用'允许用户脚本'扩展设置"。
+   - 较旧的浏览器版本没有这个开关，改为打开左下角/右上角的"开发人员模式"。
 2. 安装脚本：
    - **国内推荐**：在脚本猫安装 → [B站防沉迷：去首页推荐](https://scriptcat.org/zh-CN/script-show-page/9225)（打开后点「安装脚本」）
    - 在 Greasy Fork 安装 → [B站防沉迷：去首页推荐](https://greasyfork.org/zh-CN/scripts/606890)（打开后点「安装此脚本」）
